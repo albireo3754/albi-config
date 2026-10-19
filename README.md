@@ -1,4 +1,4 @@
-# claude-config
+# albi-config
 
 Personal Claude Code settings.
 
@@ -17,7 +17,7 @@ branch (max 32 chars) · changed lines · context used · 5-hour usage + time to
 As a Claude Code plugin:
 
 ```
-/plugin marketplace add albireo3754/claude-config
+/plugin marketplace add albireo3754/albi-config
 /plugin install albi-config@albireo3754
 /albi-config:statusline-setup
 ```
