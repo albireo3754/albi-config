@@ -2,6 +2,6 @@
   "name": "albireo3754",
   "owner": { "name": "albireo3754" },
   "plugins": [
-    { "name": "albireo-config", "source": "./", "description": "Personal Claude Code settings" }
+    { "name": "albi-config", "source": "./", "description": "Personal Claude Code settings" }
   ]
 }

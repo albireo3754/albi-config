@@ -18,8 +18,8 @@ As a Claude Code plugin:
 
 ```
 /plugin marketplace add albireo3754/claude-config
-/plugin install albireo-config@albireo3754
-/albireo-config:statusline-setup
+/plugin install albi-config@albireo3754
+/albi-config:statusline-setup
 ```
 
 Or directly: `./statusline/install.sh`
