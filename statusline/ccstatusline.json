@@ -1,0 +1,120 @@
+{
+  "version": 4,
+  "lines": [
+    [
+      {
+        "id": "1",
+        "type": "git-branch",
+        "color": "magenta",
+        "maxWidth": 32
+      },
+      {
+        "id": "20",
+        "type": "custom-text",
+        "customText": " "
+      },
+      {
+        "id": "2",
+        "type": "git-changes",
+        "color": "yellow",
+        "rawValue": true
+      },
+      {
+        "id": "3",
+        "type": "separator"
+      },
+      {
+        "id": "4",
+        "type": "context-percentage",
+        "color": "cyan",
+        "metadata": {
+          "label": "ctx "
+        }
+      },
+      {
+        "id": "5",
+        "type": "separator"
+      },
+      {
+        "id": "6",
+        "type": "session-usage",
+        "color": "green",
+        "metadata": {},
+        "rawValue": true
+      },
+      {
+        "id": "31",
+        "type": "custom-text",
+        "customText": " "
+      },
+      {
+        "id": "30",
+        "type": "reset-timer",
+        "color": "brightBlack",
+        "rawValue": true,
+        "metadata": {
+          "compact": "true"
+        }
+      },
+      {
+        "id": "7",
+        "type": "separator"
+      },
+      {
+        "id": "8",
+        "type": "weekly-usage",
+        "color": "blue",
+        "metadata": {},
+        "rawValue": true
+      },
+      {
+        "id": "33",
+        "type": "custom-text",
+        "customText": " "
+      },
+      {
+        "id": "32",
+        "type": "weekly-reset-timer",
+        "color": "brightBlack",
+        "rawValue": true,
+        "metadata": {
+          "compact": "true"
+        }
+      },
+      {
+        "id": "9",
+        "type": "separator"
+      },
+      {
+        "id": "10",
+        "type": "model",
+        "color": "brightBlack",
+        "rawValue": true
+      }
+    ],
+    [],
+    []
+  ],
+  "flexMode": "full",
+  "compactThreshold": 60,
+  "colorLevel": 2,
+  "inheritSeparatorColors": false,
+  "globalBold": false,
+  "powerline": {
+    "enabled": false,
+    "separators": [
+      "\ue0b0"
+    ],
+    "separatorInvertBackground": [
+      false
+    ],
+    "startCaps": [],
+    "endCaps": [],
+    "autoAlign": false
+  },
+  "numberFormat": {
+    "percent": {
+      "style": "whole"
+    }
+  }
+}
