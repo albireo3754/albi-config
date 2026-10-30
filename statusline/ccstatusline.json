@@ -32,6 +32,18 @@
         }
       },
       {
+        "id": "40",
+        "type": "separator"
+      },
+      {
+        "id": "41",
+        "type": "cache-timer",
+        "color": "brightBlue",
+        "metadata": {
+          "ttlSeconds": "3600"
+        }
+      },
+      {
         "id": "5",
         "type": "separator"
       },
@@ -103,7 +115,7 @@
   "powerline": {
     "enabled": false,
     "separators": [
-      "\ue0b0"
+      ""
     ],
     "separatorInvertBackground": [
       false
